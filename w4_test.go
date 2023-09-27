@@ -1,4 +1,4 @@
-package kiemthu
+package main
 
 import (
 	"testing"
